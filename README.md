@@ -1,6 +1,6 @@
 # vueproject
 
-> A Vue.js project
+> 采用jenkins自动化打包vue
 
 ## Build Setup
 
